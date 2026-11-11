@@ -1,4 +1,4 @@
-# TrackWise
+# TrackWise(**Internship Project**)
 
 A personal productivity assistant for managing tasks, priorities and daily progress.
 
